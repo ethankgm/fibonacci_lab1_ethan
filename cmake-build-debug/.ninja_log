@@ -1,0 +1,9 @@
+# ninja log v6
+14	954	1748194977587120071	CMakeFiles/fibonacci_project.dir/fibonacci_iter_tab.c.o	a33b3a491cf07334
+1028	1174	1748194978601493584	fibonacci_project	d416e3217ff18480
+3	745	1748194879247854416	CMakeFiles/fibonacci_project.dir/main.c.o	21da59e90d0a5b3d
+4	246	1748206575066080783	build.ninja	ceaad78322ac8c9c
+12	953	1748194977585498344	CMakeFiles/fibonacci_project.dir/fibonacci_recursive.c.o	84e62ce95f0b8ab
+953	1028	1748194978526523457	CMakeFiles/fibonacci_project.dir/fibonacci_iter.c.o	9bcd37718e900049
+13	954	1748194977586690933	CMakeFiles/fibonacci_project.dir/fibonacci_memo.c.o	f003d028e67e94db
+749	832	1748194879992945639	CMakeFiles/fibonacci_project.dir/globals.c.o	a5476f5e05cf66ea
